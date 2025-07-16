@@ -54,7 +54,8 @@ Social media platforms generate millions of posts every day reflecting real-time
 
 ## 📊 Dashboard Preview
 
-![Sentiment Dashboard Preview](images/sentiment_dashboard_preview.png)
+<img width="1346" height="748" alt="Power BI Desktop 7_3_2025 3_42_38 PM" src="https://github.com/user-attachments/assets/f762c159-c8ea-4d89-a0df-f715ec424c5d" />
+
 
 ---
 

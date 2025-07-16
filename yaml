@@ -1,0 +1,32 @@
+
+---
+
+## 🛠️ How to Use
+
+1. Clone or download this repo
+2. Open `Sentiment_Dashboard.pbix` in Power BI Desktop
+3. Use filters to explore sentiment patterns across time and topic
+4. Replace the dataset in `/data` with your own CSV to update visuals
+
+---
+
+## 🔍 Use Cases
+
+- 🌐 Social media campaign analysis  
+- 🗳️ Political sentiment tracking during elections  
+- 🏢 Brand reputation monitoring  
+- 🎥 Movie or event feedback analysis  
+- 📈 Market reaction during product launches or crises
+
+---
+
+## 🔓 License
+
+MIT License – you are free to reuse, modify, and share this dashboard for academic or commercial use.
+
+---
+
+## 🙌 Contributions
+
+Have new features or ideas? Fork this repo and submit a pull request!
+
